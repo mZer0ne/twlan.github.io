@@ -4,7 +4,7 @@
     "title": "TWLan Project Page",
     "os": {
         "win32": "Windows",
-        "mac": "OS X",
+        "mac": "macOS",
         "linux": "Linux"
     },
     "github": {
